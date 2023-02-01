@@ -1,4 +1,4 @@
-# URL Sharpner
+# URL Shortner
 
 ## Setup
 
